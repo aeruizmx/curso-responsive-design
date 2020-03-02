@@ -276,9 +276,6 @@ figure {
   flex-wrap: wrap;
 }
 
-.social {
-}
-
 .social-link {
   display: inline-block;
   width: 50px;
@@ -338,6 +335,11 @@ figure {
   align-items: inherit;
   height: inherit;
   flex-wrap: inherit;
+}
+
+.html-video {
+  width: 100%;
+  height: auto;
 }
 /* DESKTOP FIRST*/
 @media screen and (max-width: 1024px){
